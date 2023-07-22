@@ -1,2 +1,55 @@
-
-/* Your CSS Code here. */
+.latest-blog{
+	background-color:black;
+	width: 1386px;
+    height: 742px;
+    top: 155px;
+    left: 27px;
+    border-radius: 50px;
+}
+.xyz{
+	display: flex;
+  justify-content: center;
+}
+.search{
+	border-left-radius:0px;
+}
+.lets-explore{
+	width: 546px;
+    height: 78.9299545288086px;
+    padding-top: 100px;
+    padding-left: 110px;
+    border-radius: 0px 19px 19px 0px;
+}
+.announce-card{
+	width:50%;
+}
+.more-blog{
+	padding-top:200px;
+	width:100%;
+	display:flex;
+  justify-content:center;
+}
+.ai{
+	width: 100%;
+   height: 460px;
+ border-radius: 15px
+}
+.ai-text{
+	width: 100%;
+   height: 460px;
+ border-radius: 15px
+}
+.card1{
+	padding-top:700px:
+}
+.card{
+	border-radius:25px:
+}
+.writer{
+	display:flex;
+	justify-content:space-between;
+}
+.see{
+	display:flex;
+	justify-content:end;
+}
